@@ -1,0 +1,36 @@
+
+.container{
+    background-color: transparent;
+    transition: 0.3s;
+    border: 1px dashed gray;
+    border-radius: var(--imgBorderRadius);
+    color: var(--addImagesFontColor);
+    height: 100% !important;
+    width: 100%;
+    min-height: 150px;
+}
+.invalid_item_container{
+    border: 1px dashed rgb(175, 46, 46) !important;
+}
+
+.addImageIcon p{
+    text-align: center;
+    color: rgb(175, 46, 46)
+}
+.dropzone_input{
+    display: none;
+}
+label{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:16px;
+    min-width: 120px;
+}
+
+  
+
