@@ -28,6 +28,6 @@ Image Manager is a web-based application that allows users to manage images, pro
   
 
 ## Live Link for Netlify
-Netlify - https://65490603a355fc1c2894f422--jovial-llama-55ee37.netlify.app/
+Netlify - https://65491214e90f5f051641431c--glowing-figolla-0dd7ec.netlify.app/
 
    `
